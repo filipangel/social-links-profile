@@ -106,3 +106,17 @@ body {
 	font-size: 1.5rem;
 	font-weight: var(--fw-semi-bold);
 }
+
+@media only screen and (min-width: 760px) {
+	.container {
+		width: 36rem;
+		padding: 3rem;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.container {
+		width: 40rem;
+		padding: 4rem;
+	}
+}
