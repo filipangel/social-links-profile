@@ -33,7 +33,7 @@ Users should be able to:
 
 ### What I learned
 
-Another simple challenge. Here the biggest difficulty is centering the elements properly and guessing the dimensions of paddings, margins and elements from the design screenshot. Still, I'm pretty happy with how it turned out. For the first time I started building the mobile design first, then went on to the larger screen sizes. Though the difference between mobile and desktop designs is trivial for this challenge, it's still a solid first step.
+Another simple challenge. The biggest difficulty here is centering the elements properly and guessing the dimensions of paddings, margins and elements from the design screenshot. Still, I'm pretty happy with how it turned out. For the first time I started building the mobile design first, then went on to the larger screen sizes. Though the difference between mobile and desktop designs is minimal for this challenge, it's still a solid first step.
 
 ## Author
 
